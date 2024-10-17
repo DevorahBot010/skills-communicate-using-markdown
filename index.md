@@ -6,3 +6,7 @@
 Alt-text is the format below👇
 
 ![Cat](https://i.imgflip.com/1di91e.jpg)
+
+``` javascript
+var myVar = "Howdy, CatWorld!";
+```
