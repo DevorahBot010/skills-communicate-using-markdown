@@ -10,3 +10,10 @@ Alt-text is the format below👇
 ``` javascript
 var myVar = "Howdy, CatWorld!";
 ```
+
+- [ ] Do what you gotta do?
+- [ ] College application yet?!
+- [ ] Rec Letters
+- [ ] CSS finished yet!?
+- [x] I already hate this? 
+LOL
